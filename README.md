@@ -45,6 +45,8 @@ Closure describes the full loop and closes the circle between when the variable 
 
 5. Why do we need super() in an extended class?
 
+Super allows us to use the functions of a parent constructor.
+
 ### Task 1 - Project Set up
 
 Follow these steps to set up and work on your project:
